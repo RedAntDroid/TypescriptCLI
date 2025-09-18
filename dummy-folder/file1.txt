@@ -1,0 +1,3 @@
+Hello world!
+This is a funny file.
+Replace me if you can.

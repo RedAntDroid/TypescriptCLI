@@ -1,0 +1,26 @@
+{
+  "name": "typescriptie-cli",
+  "version": "1.0.0",
+  "description": "A TypeScript CLI for folder upload and text editing in files.",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "cli",
+    "typescript",
+    "text-edit",
+    "folder"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.9",
+    "ts-node": "^10.0.0",
+    "typescript": "^5.0.0"
+  }
+}
